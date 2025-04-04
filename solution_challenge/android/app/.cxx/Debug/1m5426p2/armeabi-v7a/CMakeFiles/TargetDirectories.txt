@@ -1,0 +1,2 @@
+F:/solution_challenge/android/app/.cxx/Debug/1m5426p2/armeabi-v7a/CMakeFiles/edit_cache.dir
+F:/solution_challenge/android/app/.cxx/Debug/1m5426p2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
